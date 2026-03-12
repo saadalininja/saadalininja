@@ -19,7 +19,6 @@
 
 ## 💫 About Me
 
-```javascript
 const saadAli = {
     location: "Mian Channu, Punjab, Pakistan",
     role: "Full Stack Developer",
@@ -31,7 +30,6 @@ const saadAli = {
     expertise: ["Backend Engineering", "Frontend Development", "Database Design", "API Development"],
     motto: "I don't just build features; I build systems ready for real users"
 };
-```
 
 **🎯 What I Do:**
 - ⚡ Build production-ready Laravel and React applications from concept to deployment
